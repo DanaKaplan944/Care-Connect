@@ -1,0 +1,131 @@
+.homeMainContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: red;
+}
+
+.homeMenu {
+  display: flex;
+  align-items: center;
+}
+
+.homeBodyContainer {
+  display: flex;
+  align-items: center;
+  background-color: blue;
+}
+
+.signupMainContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #03164d;
+  flex-direction: column;
+  color: white;
+  height: 100vh;
+  width: 100vw;
+}
+
+.signupContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.signupFormContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.signupInput {
+  border-radius: 5px;
+  border: 2px #dbdbdb solid;
+  margin-bottom: 15px;
+}
+
+.button {
+  background-color: #14a5e9;
+  border: none;
+  font-weight: bold;
+  border-radius: 10px;
+  color: white;
+  text-align: center;
+  margin: 4px 2px;
+  opacity: 0.8;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.button:hover {
+  opacity: 1;
+}
+
+.loginMainContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #03164d;
+  color: white;
+  height: 100vh;
+  width: 100vw;
+}
+
+.loginFormContainer {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  flex-direction: column;
+}
+
+.loginInputs {
+  border-radius: 5px;
+  border: 2px #dbdbdb solid;
+  margin-bottom: 10px;
+}
+
+.createAccountBtn {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 10px 20px;
+  font-size: 12px;
+  font-weight: bold;
+  background-color: #14a5e9;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  text-align: center;
+  margin: 4px 2px;
+  opacity: 0.8;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.createAccountBtn:hover {
+  opacity: 1;
+}
+
+.taskInput {
+  border-radius: 5px;
+  border: 2px #dbdbdb solid;
+  margin-bottom: 10px;
+}
+
+.taskContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #03164d;
+  color: white;
+  height: 100vh;
+  width: 100vw;
+}
+
+.taskPageLogo {
+  position: absolute;
+  top: 8px;
+  left: 10px;
+  height: 400px;
+  width: 400px;
+}
