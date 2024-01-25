@@ -2,7 +2,7 @@
 
 Care Connect is a full stack application that is aimed at making the life of caregivers a little easier! 
 
-Users can sign up and register information about themselves and who they are caring for, and add any re-occuring tasks that need to be completed each day. The home page displays a calendar view, and a section to add any notes for each day. Users can then click the "weekly report" button which will send an email of the notes from the last seven days. This makes it easy for caregivers to have all the infomration in one place, and communicate updates to family/friends in one email.  
+Users can sign up and register information about themselves and who they are caring for, and add any re-occuring tasks that need to be completed each day. The home page displays a calendar view, and a section to add any notes for each day. Users can then click the "weekly report" button which will send an email of the notes from the last seven days. This makes it easy for caregivers to have all the information in one place, and communicate updates to family/friends in one email.  
 
 I am currently working on version 2.0...more to come soon!
 
